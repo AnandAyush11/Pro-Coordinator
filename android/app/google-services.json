@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785506801739",
+    "project_id": "procoordinator-23351",
+    "storage_bucket": "procoordinator-23351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785506801739:android:b97770dc6a27d9767e55ce",
+        "android_client_info": {
+          "package_name": "com.megabyte.procoordinator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785506801739-1osndihbql3fkmk323lpehna04giclpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megabyte.procoordinator",
+            "certificate_hash": "d76242d91647759bc2f1bc66b24f25f34c49de50"
+          }
+        },
+        {
+          "client_id": "785506801739-h8oqj78780m7k4kk7ekghlt7457k90bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXT4wVVY2bfymGydxFskqJPHrI96vte0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785506801739-h8oqj78780m7k4kk7ekghlt7457k90bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
